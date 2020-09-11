@@ -3,7 +3,7 @@
 
 This project was to learn about using javafx and concepts such as handling framerate, unit collision, and simulating momentum/physics.
 
-This project requires java to run.
+This project requires the java development kit (JDK) to compile and run java code.
 
 This project can be compiled and run through a terminal by navigating the the folder of THIS file, and then using the commands:
 
