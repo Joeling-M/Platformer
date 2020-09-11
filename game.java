@@ -1,3 +1,9 @@
+/*
+Main file for the game
+Creator: Joseph Myc
+Last edited: 11/09/2020
+*/
+
 import java.util.HashMap;
 import java.util.ArrayList;
 
@@ -199,6 +205,7 @@ public class game extends Application {
                 player.setTranslateY(player.getTranslateY() - 1);
             }
             
+            //respawn and reset camera if player falls off
             if (player.getTranslateY() > levelHeight+200){
                 player.setTranslateX(0);
                 player.setTranslateY(500);
