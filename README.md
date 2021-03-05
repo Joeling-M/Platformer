@@ -9,4 +9,4 @@ This project can be compiled and run through a terminal by navigating the the fo
 
 javac --module-path lib\javafx-sdk-11.0.2\lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web game.java
 
-java --module-path lib\javafx-sdk-11.0.2\lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web game.java
+java --module-path lib\javafx-sdk-11.0.2\lib --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web game
